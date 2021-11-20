@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaishnaviYRathod
-- 👀 I’m interested in Webdevelopement and app development 
+- 👀 I’m interested in Web developement and app development 
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me - vaishnaviyrathod069@gmail.com
