@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VaishnaviYRathod
-- 🌱 I’m currently learning  Python
+
 - 📫 How to reach me - vaishnaviyrathod069@gmail.com
 
 <!---
